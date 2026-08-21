@@ -18,6 +18,7 @@
   "homepage": "https://github.com/inwananwar1999/playwright_ci_cd#readme",
   "devDependencies": {
     "@playwright/test": "^1.62.1",
-    "@types/node": "^26.2.0"
+    "@types/node": "^26.2.0",
+    "allure-playwright": "^3.10.2"
   }
 }
