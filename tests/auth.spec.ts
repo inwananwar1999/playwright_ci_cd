@@ -1,4 +1,4 @@
-import { test, expect } from '../fixtures/testFixtures';
+import { test, expect } from './fixtures/testFixtures';
 
 test.describe('Authentication & User Account Tests (Test Cases 1-5)', () => {
   const dynamicTimestamp = Date.now();

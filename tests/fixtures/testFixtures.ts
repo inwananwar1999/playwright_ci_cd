@@ -1,7 +1,7 @@
 import { test as baseTest } from '@playwright/test';
-import { AuthPage } from '../pages/AuthPage';
-import { RegisterPage } from '../pages/RegisterPage';
-import { AccountStatusPage } from '../pages/AccountStatusPage';
+import { AuthPage } from './pages/AuthPage';
+import { RegisterPage } from './pages/RegisterPage';
+import { AccountStatusPage } from './pages/AccountStatusPage';
 
 type CustomFixtures = {
   authPage: AuthPage;
