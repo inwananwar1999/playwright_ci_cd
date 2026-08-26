@@ -1,2 +1,2 @@
 # playwright_ci_cd
-update .yaml
+Repository Belajar CI CD menggunakan playwright
